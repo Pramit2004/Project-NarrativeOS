@@ -1,0 +1,28 @@
+{
+  "short_name": "TxtReader",
+  "name": "TxtReader Legend - Ultimate Text File Reader",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#C0521A",
+  "background_color": "#F7F3EC",
+  "orientation": "any",
+  "categories": ["productivity", "books", "utilities"],
+  "description": "Transform raw text files into a premium reading experience with AI analysis, beautiful typography, and smart navigation"
+}
